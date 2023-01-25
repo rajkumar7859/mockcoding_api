@@ -4,11 +4,8 @@
     "signupuser":[],
     "dogdata":[],
     "address":[],
-    "Cart":[
-      {
-        "post":[]
-      }
-    ],
+    "Cart":[],
+    "post":[],
       "Featured": [
         {
           "id": 1,
