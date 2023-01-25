@@ -4,8 +4,12 @@
     "signupuser":[],
     "dogdata":[],
     "address":[],
-    "Cart":[],
-      "products": [
+    "Cart":[
+      {
+        "post":[]
+      }
+    ],
+      "Featured": [
         {
           "id": 1,
           "title": "Tata 1mg Probiotics 30 Billion CFUs+ Capsule with Prebiotic Fibre",
